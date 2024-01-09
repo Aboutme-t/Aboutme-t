@@ -18,7 +18,7 @@ I took part in the 'data-science-bootcamp-9,' where I received instruction, guid
 - Essential Python for Data Analyst
 - Dashboard with Looker Studio
 
-## Here are assignments:
+## Below are assignments available for review on this GitHub repository::
 - Spreadsheet
 - SQL
 - R
