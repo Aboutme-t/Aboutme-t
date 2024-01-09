@@ -2,7 +2,7 @@
 I took part in the 'data-science-bootcamp-9,' where I received instruction, guidance, and inspiration from Mr. Toy DataRockie. Feel free to explore the repository, which serves as a storage space for the assignments completed during this comprehensive bootcamp.
 
 ## There are 10 sprints in the program.
-## First part of the program
+### First part of the program
 - Intro to data science
 - Spreadsheets
 - SQL database
@@ -10,7 +10,7 @@ I took part in the 'data-science-bootcamp-9,' where I received instruction, guid
 - Data Transformation
 - Data Visualization
   
-## Second part of the program
+### Second part of the program
 - Essential Statistics
 - Building Portfolio
 - Machine Learning for Data Analyst
