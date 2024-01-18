@@ -46,3 +46,6 @@ print_result = function(your_selected, bot_selected, result, win_messages, lose_
     print(sample(tie_messages, 1))
   }
 }
+
+# Run to play rps
+play_rps()
