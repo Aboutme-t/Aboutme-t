@@ -3,4 +3,4 @@ The aim of this project is to create a dashboard using easy-to-use Business Inte
 
 ### assignment list
 - Dashboard with Tableau Public [Link](https://public.tableau.com/app/profile/kaitkong.kongpien/viz/ComparativeAnalysisofMovieGrossvs_BudgetandGenre-specificProfit/Dashboard1)
-- Dashboard with Looker Studio [Link]([URL](https://lookerstudio.google.com/reporting/3e6636e6-2b9f-44df-be51-c14dd61d803e/page/34xmD?s=o_F47nfnReM)https://lookerstudio.google.com/reporting/3e6636e6-2b9f-44df-be51-c14dd61d803e/page/34xmD?s=o_F47nfnReM)
+- Dashboard with Looker Studio [Link](https://lookerstudio.google.com/reporting/3e6636e6-2b9f-44df-be51-c14dd61d803e/page/34xmD?s=o_F47nfnReM)
