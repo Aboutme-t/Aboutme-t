@@ -1,5 +1,5 @@
 # Data Science Bootcamp Batch 09
-I took part in the 'data-science-bootcamp-9,' where I received instruction, guidance, and inspiration from Mr. Toy DataRockie. Feel free to explore the repository, which serves as a storage space for the assignments completed during this comprehensive bootcamp.
+I took part in the 'data-science-bootcamp-9' where I received instruction, guidance, and inspiration from p'Toy DataRockie. Feel free to explore the repository, which serves as a storage space for the assignments completed during this comprehensive bootcamp.
 
 ## There are 10 sprints in the program.
 ### First part of the program
