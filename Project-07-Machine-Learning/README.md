@@ -3,4 +3,11 @@ The objective of this project is to demonstrate fundamental knowledge of Machine
 
 ### assignment list
 - Churn prediction with Machine Learning In R (Caret)
+- linear regression
+- logistic regression
+- KNN model
+- how to do normalization
+- how to save and load model
+- Classification vs. Regression
+- Resampling 
 
