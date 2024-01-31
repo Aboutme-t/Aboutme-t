@@ -5,7 +5,7 @@ I am passionate about a career in data and am eagerly seeking entry-level opport
 - 1996s (26-Years-old)
 - 🌍  I'm based in Bangkok, Thailand
 - ✉️  You can contact me at kaitkong_kp@hotmail.com
-- 🖥️  See my portfolio at [Link to Aboutme GitHub Repository](https://github.com/Aboutme-t/Aboutme)
+- 🖥️  See my portfolio at [Project-Portfolio](https://github.com/Aboutme-t/Aboutme)
 - 🧠 I love to learn, and I am a fast learner.
 
 
