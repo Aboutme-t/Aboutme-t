@@ -1,31 +1,23 @@
-# Data Science Bootcamp Batch 09
-I took part in the 'data-science-bootcamp-9' where I received instruction, guidance, and inspiration from p'Toy DataRockie. Feel free to explore the repository, which serves as a storage space for the assignments completed during this comprehensive bootcamp.
+## Hi :wave: My name is Kaitkong Kongpien (TEAY)
 
-## There are 10 sprints in the program.
-### First part of the program
-- Intro to data science
-- Spreadsheets
-- SQL database
-- R programming
-- Data Transformation
-- Data Visualization
-  
-### Second part of the program
-- Essential Statistics
-- Building Portfolio
-- Machine Learning for Data Analyst
-- Python Programming
-- Essential Python for Data Analyst
-- Dashboard with Looker Studio
+I am passionate about a career in data and am eagerly seeking entry-level opportunities to contribute to a dynamic team. I am committed to applying analytical skills for excellence in data-related functions.
 
-## Below are assignments available for review on this GitHub repository:
-- Spreadsheet
-- SQL
-- R
-- Data-transform
-- Data-visualization
-- Dashboard
-- Machine Learning for Data Analyst
-- Python Programming
+- 1996s (26-Years-old)
+- 🌍  I'm based in Bangkok, Thailand
+- ✉️  You can contact me at kaitkong_kp@hotmail.com
+- 🖥️  See my portfolio at [Link to Aboutme GitHub Repository](https://github.com/Aboutme-t/Aboutme)
+- 🧠 I love to learn, and I am a fast learner.
 
-Contact : kaitkong_kp@hotmail.com
+
+## Skills 
+- 📊 **Spreadsheet**
+- 📊 **Tableau**
+- 📊 **Looker**
+- 📊 **Studio**
+- 📊 **Power BI**
+- 📊 **Statistical Analysis**
+- 🤖 **Machine Learning**
+- 💻 **SQL**
+- 🐍 **Python**
+- 🧮 **R**
+
