@@ -7,7 +7,7 @@ Generalist in practice
 I am passionate about a career in data and am eagerly seeking entry-level opportunities to contribute to a dynamic team. I am committed to applying analytical skills for excellence in data-related functions.
 
 * 🌍  I'm based in Bangkok , Thailand
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/Aboutme-t/Data-Science-Bootcamp-Project-Portfolio)
+* 🖥️  See my portfolio at [My Portfolio](http://github.com/Aboutme-t/Data-Science-Bootcamp-Project-Portfolio) , [Link in bio](https://bit.ly/m/Aboutme-t)
 * ✉️  You can contact me at [kaitkong\_kp@hotmail.com](mailto:kaitkong_kp@hotmail.com)
 * 🧠  I'm learning I love to learn, and I am a fast learner.
 
